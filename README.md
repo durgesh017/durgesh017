@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 I’m currently working on:<br>Improving cloud-based solutions and implementing microservices architecture.<br><br> 💫 I’m looking to collaborate on:<br>Fullstack projects<br><br> 💫 I’m currently learning:<br>AWS Services and GraphQL.<br><br> 💫 Ask me about:<br>Kotlin, Android, Node.js, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating solutions...
+💫 I’m currently working on:<br>Improving cloud-based solutions and implementing microservices architecture.<br><br> 💫 I’m looking to collaborate on:<br>Fullstack projects<br><br> 💫 I’m currently learning:<br>AWS Services and GraphQL.<br><br> 💫 Ask me about:<br>Kotlin, Android, Node.js, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sde-durgesh/) 
